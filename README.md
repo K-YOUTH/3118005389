@@ -210,7 +210,11 @@ def removePunctuation(text):
 **参考资料**
 
 [https://blog.csdn.net/Nonoroya_Zoro/article/details/80342532](文本相似度1)
+
 [https://titanwolf.org/Network/Articles/Article?AID=26627f5e-1ce9-40cb-a091-b771ae91d69d](文本相似度3)
+
 [https://www.cnblogs.com/airnew/p/9563703.html](文本相似度4)
+
 [https://blog.csdn.net/qq236237606/article/details/107815605](去除标点符号)
+
 [https://www.bilibili.com/video/BV1SQ4y1A739?t=1510]()
